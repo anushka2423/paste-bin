@@ -1,0 +1,4 @@
+{
+  "/api/pastes/route": "app/api/pastes/route.js",
+  "/page": "app/page.js"
+}

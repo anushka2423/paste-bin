@@ -1,0 +1,31 @@
+(globalThis.TURBOPACK_CHUNK_LISTS || (globalThis.TURBOPACK_CHUNK_LISTS = [])).push({
+    script: typeof document === "object" ? document.currentScript : undefined,
+    chunks: [
+  "static/chunks/9a261_antd_es_form_3d8bf73c._.js",
+  "static/chunks/9a261_antd_es_date-picker_dd1bf613._.js",
+  "static/chunks/9a261_antd_es_modal_563ef025._.js",
+  "static/chunks/9a261_antd_es_color-picker_1c547046._.js",
+  "static/chunks/9a261_antd_es_input_159aa71d._.js",
+  "static/chunks/9a261_antd_es_table_5ef08a40._.js",
+  "static/chunks/9a261_antd_es_typography_bb075f4b._.js",
+  "static/chunks/9a261_antd_es_f58b5be4._.js",
+  "static/chunks/9a261_@ant-design_cssinjs_es_c271573a._.js",
+  "static/chunks/9a261_@ant-design_icons_es_7ec7ea81._.js",
+  "static/chunks/9a261_rc-picker_es_b7ad3aac._.js",
+  "static/chunks/9a261_rc-field-form_es_8d7d4cd9._.js",
+  "static/chunks/9a261_rc-select_es_1fa2cb3b._.js",
+  "static/chunks/9a261_rc-menu_es_9ce58ba3._.js",
+  "static/chunks/9a261_rc-tabs_es_8646964e._.js",
+  "static/chunks/9a261_@ant-design_react-slick_es_31987f2e._.js",
+  "static/chunks/9a261_rc-cascader_es_2142d1ad._.js",
+  "static/chunks/9a261_rc-tree_es_cf0adc20._.js",
+  "static/chunks/9a261_rc-slider_es_910b56fe._.js",
+  "static/chunks/9a261_rc-table_es_fa372ed8._.js",
+  "static/chunks/9a261_rc-tree-select_es_cb157be8._.js",
+  "static/chunks/9a261_@ant-design_d2e4a72f._.js",
+  "static/chunks/9a261_@rc-component_9afb6bd3._.js",
+  "static/chunks/9a261_f4b3ffd6._.js",
+  "static/chunks/pastebin_styles_globals_74e2e367.css"
+],
+    source: "dynamic"
+});
